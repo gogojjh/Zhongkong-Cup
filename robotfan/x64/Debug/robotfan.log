@@ -1,0 +1,44 @@
+﻿生成启动时间为 2016-4-24 1:37:23。
+     1>项目“D:\user\Documents\VS2010\robotfan\robotfan\robotfan.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\robotfan.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\VS2010\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt surfFeaturedetect.cpp
+         surfFeaturedetect.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\VS2010\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\user\Documents\VS2010\robotfan\x64\Debug\robotfan.exe" /INCREMENTAL /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib opencv_nonfree2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\robotfan.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\user\Documents\VS2010\robotfan\x64\Debug\robotfan.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\user\Documents\VS2010\robotfan\x64\Debug\robotfan.lib" /MACHINE:X64 x64\Debug\robotfan.exe.embed.manifest.res
+         x64\Debug\defineName.obj
+         x64\Debug\detectBlock.obj
+         x64\Debug\detectBlueBlock.obj
+         x64\Debug\detectGreenBlock.obj
+         x64\Debug\detectObject.obj
+         x64\Debug\detectRedBlock.obj
+         x64\Debug\detectYellowBlock.obj
+         x64\Debug\detect_areac.obj
+         x64\Debug\detect_aread.obj
+         x64\Debug\detect_areae.obj
+         x64\Debug\main.obj
+         x64\Debug\manager.obj
+         x64\Debug\SerialPort.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\surfFeaturedetect.obj
+         x64\Debug\video.obj
+         x64\Debug\voice.obj
+         robotfan.vcxproj -> D:\user\Documents\VS2010\robotfan\x64\Debug\robotfan.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\robotfan.exe.embed.manifest" /manifest x64\Debug\robotfan.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         robotfan.vcxproj -> D:\user\Documents\VS2010\robotfan\x64\Debug\robotfan.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\robotfan.unsuccessfulbuild”。
+         正在对“x64\Debug\robotfan.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\user\Documents\VS2010\robotfan\robotfan\robotfan.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.80
